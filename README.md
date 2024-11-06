@@ -6,10 +6,10 @@ This report presents an analysis of employee attrition using a fictitious datase
 Methodology
 The decision to analyze this data was made after seeing a YouTube video from Andre Yukio, in which he talks about the job of a data analyst. This analysis first started being done blindly (without actually watching the analysis process in the video), in order to see if my decision-making process aligns with Yukio’s who is a well-known data scientist in Brazil. 
 
-## Project Timeline, Tools and Goals
+Tools and Goals
 
-May 27, 2024: Project initiation, data downloaded from Kaggle, tools used were Excel and ChatGPT.
-
+The data was downloaded from Kaggle, tools used were Excel and ChatGPT.
+ 
 Began analyzing the data with the goal to:
 -	Learn the analysis process and put into perspective how it actually works.
 -	Track progress throughout the project and see how decision-making evolves.
@@ -23,13 +23,12 @@ Finding: Employees in their late 20s to mid-30s (45%) from the Sales department 
 
 Actionable Insight: Consider targeting retention strategies for Sales employees in this age group and commuting distance.
 
-
 #### Education Field
 Finding: Attrition rates are higher in employees with a bachelor’s degree (43%).
 
 Actionable Insight: Implement career development programs based on educational background to enhance retention.
-Environment Satisfaction
 
+#### Environment Satisfaction
 Finding: 30% of the employees who left the company were not satisfied with the environment, but most of them (52%) were satisfied or very satisfied with the environment.
 
 Actionable Insight: Conduct surveys to better understand and improve workplace environment satisfaction.
@@ -39,8 +38,8 @@ Actionable Insight: Conduct surveys to better understand and improve workplace e
 Finding: 17% attrition rate among men, with men constituting 60% of the workforce.
 
 Actionable Insight: Investigate specific factors affecting gender-based attrition and address any disparities.
-Hourly Rates
 
+#### Hourly Rates
 Finding: Minimal difference in average hourly rates between genders.
 
 Actionable Insight: Ensure ongoing pay equity audits to maintain fairness.
@@ -51,25 +50,28 @@ Despite a slight disparity in the proportion of male to female employees, hourly
 Finding: Most employees have moderate job involvement and are at the lowest job levels.
 
 Actionable Insight: Enhance engagement initiatives and provide clear career progression paths.
+
 #### Job Satisfaction
 Finding: Significant proportion of employees were unsatisfied.
 
 Actionable Insight: Implement regular feedback mechanisms and address key areas of dissatisfaction.
-
 
 ### 4. Additional Variables
 #### Marital Status
 Finding: 50% are single, 34% married, 14% divorced.
 
 Actionable Insight: Consider family-friendly policies to support married and divorced employees.
-Monthly Income and Rate
+
+#### Monthly Income and Rate
 Finding: Wide income range with a concentration in the $2000-$3000 range.
 
 Actionable Insight: Review compensation packages to ensure competitive salaries.
+
 #### Overtime
 Finding: Nearly equal split, 52% did overtime 48% did not, between employees working overtime and those who do not.
 
 Actionable Insight: Monitor overtime patterns to prevent burnout.
+
 #### Performance Rating
 Finding: Majority (86%) received excellent performance ratings.
 
@@ -107,7 +109,13 @@ If you only look at the difference between the employees who left the company an
 Understanding these nuances is essential to provide accurate information to project stakeholders and avoid misconceptions.
 
 ## Conclusion
-This report provides a comprehensive overview of employee attrition analysis, highlighting the importance of a structured approach to data analysis. This experience has given me valuable insights into the analytical process and decision-making strategies necessary for effective data analysis It also emphasized the need to focus on clear objectives, accurate visualizations, and a thorough exploration of correlations to drive meaningful outcomes. Future projects should build on these practices to achieve even more precise and impactful results.
+This report provides a comprehensive overview of employee attrition analysis, underscoring the importance of a structured approach to data analysis.
+
+A significant finding from this analysis is that many companies lack defined career development paths for employees, particularly concerning learning and growth opportunities. This lack can heavily influence attrition rates; employees who feel supported in their professional growth are more likely to remain with the organization.
+
+Investing in career advancement and fostering an environment that values knowledge development can significantly enhance employee retention, demonstrating the company's commitment to a positive workplace culture. This focus on retention also mitigates the high costs associated with frequent hiring and turnover, making it a prudent strategy for any organization.	
+
+In future projects, effective use of visualization tools and a structured methodology, like CRISP-DM, will be crucial for clear organization and impactful presentations. Through this experience, I gained valuable insights into analytical processes and decision-making strategies essential for effective data work. It also highlighted the importance of setting clear objectives, using accurate visualizations, and thoroughly exploring correlations to drive meaningful outcomes.
 
 ## References
 [Kaggle Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
